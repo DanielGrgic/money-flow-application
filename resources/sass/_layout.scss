@@ -1,0 +1,9 @@
+.root-container {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.main-container {
+  margin-top: var(--navbarHeight);
+  max-width: calc(100vw - 100px) !important;
+}
